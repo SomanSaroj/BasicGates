@@ -1,4 +1,4 @@
-//Day-1 Basic gates 
+//Day-1 Basicgates 
 module gates(a,b,c,d,e,f,g);
   input a;input b;
   output c;

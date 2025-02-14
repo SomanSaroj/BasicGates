@@ -1,5 +1,5 @@
 // Code your testbench here
-// or browse Examples
+
 module test_gates;
   reg a,b;
   wire c,d,e,f,g;
